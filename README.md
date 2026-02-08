@@ -6,7 +6,7 @@ A graphical visualization for the *ROBUST-RCT* tool.
 
 Install the beta version
 ```R
-install.packages("eclipseplot_0.9.0.tar.gz", repos = NULL, type = "source")
+install.packages("eclipseplot_0.9.1.tar.gz", repos = NULL, type = "source")
 ```
 
 Quick example
